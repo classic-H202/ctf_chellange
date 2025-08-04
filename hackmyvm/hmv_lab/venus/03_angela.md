@@ -6,7 +6,7 @@ emma
 
 #file item line num  cat -n file.txt
 
-#pass
+#pass |grep "4069"
 
 fIvltaGaq0OUH8O
 
